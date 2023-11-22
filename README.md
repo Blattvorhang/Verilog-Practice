@@ -6,4 +6,5 @@ This repository includes some exercises about Verilog.
   - 74381 ALU Chip
   - BCD Adder
   - 32-bit Adder Using 4-bit Carry Lookahead Adder
+- Sequential Logic
 - Testbench
