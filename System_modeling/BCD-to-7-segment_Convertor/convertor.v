@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module convertor(
+module Convertor(
     input w0,
     input w1,
     input w2,
