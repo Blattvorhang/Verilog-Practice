@@ -8,10 +8,10 @@ This repository includes some exercises about Verilog.
   - [Cascaded 32-bit Adder using 4-bit Carry Lookahead Adder](System_Modeling/Cascaded_32-bit_Adder/)
 - Sequential Logic
   - [Auto Coffee Teller Controller]()
-  - [8-bit Comparator (serial input)]()
+  - [8-bit Comparator (serial input, LSM first)]()
   - [Cyclic Color Light]()
   - [Alarm System]()
-  - [Sequence Detector of two inputs]()
+  - [Sequence Detector of a pair of two binary inputs]()
   - [4-bit Hamming Code](./FSM_and_FSMD/HammingCode/)
   - [Traffic Lamps Controller]()
   - [Factorial using FSMD]()
