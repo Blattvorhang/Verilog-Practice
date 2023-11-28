@@ -7,5 +7,15 @@ This repository includes some exercises about Verilog.
   - [BCD Adder](System_Modeling/BCD_Adder/)
   - [32-bit Adder Using 4-bit Carry Lookahead Adder](System_Modeling/Cascaded_32-bit_Adder/)
 - Sequential Logic
+  - [Auto Coffee Teller Controller]()
+  - [Cyclic Color Light]()
+  - [Alarm System]()
+  - [Sequence Detector of two inputs]()
+  - [4-bit Hamming Code](./FSM_and_FSMD/HammingCode/)
+  - [Traffic Lamps Controller]()
+  - [Factorial using FSMD]()
+  - [Cyclic Redundancy Check (CRC)]()
+  - [Receiving Controller]()
+  - [Button Detection and Debouncing]()
 - Testbench
   - [Generate waveform](System_Modeling/Testbench_waveform/)
