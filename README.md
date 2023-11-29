@@ -8,19 +8,19 @@ This repository includes some exercises about Verilog.
 - [Cascaded 32-bit Adder using 4-bit Carry Lookahead Adder](System_Modeling/Cascaded_32-bit_Adder/)
 
 ## Sequential Logic
-- Coding
+- Coding and Communication
   - [4-bit Hamming Code](./FSM_and_FSMD/HammingCode/)
   - [Run-Length Encoder]()
   - [Cyclic Redundancy Check (CRC)]()
+  - [Receiving Controller]()
 - [Auto Coffee Teller Controller]()
-- [8-bit Comparator (serial input, LSM first)]()
+- [8-bit Comparator (serial input, LSB first)]()
 - [Cyclic Color Light](./FSM_and_FSMD/CyclicColorLight/)
 - [Alarm System](./FSM_and_FSMD/AlarmSystem/)
 - [Sequence Detector of a pair of two binary inputs](./FSM_and_FSMD/SequenceDetector/)
 - [Traffic Lamps Controller]()
 - [Factorial using FSMD](./FSM_and_FSMD/Factorial/)
-- [Receiving Controller]()
-- [Button Detection and Debouncing]()
+- [Button Detection and Debouncing](./FSM_and_FSMD/ButtonDetection/)
 
 ## Testbench
 - [Generate waveform](System_Modeling/Testbench_waveform/)
