@@ -8,7 +8,7 @@ module CRC8_Generator_test;
     reg enable;
     wire [7:0] crc;
 
-    E10_CRC8_Generator DUT(
+    CRC8_Generator DUT(
         .clk(clk),
         .reset(reset),
         .data(data),
