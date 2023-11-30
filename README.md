@@ -1,13 +1,14 @@
 # Verilog-Practice
 This repository includes some exercises about Verilog.
 
-## Combinational Logic
+## Verilog
+### Combinational Logic
 - [BCD-to-7-segment Convertor](System_Modeling/BCD-to-7-segment_Convertor/)
 - [74381 ALU Chip](System_Modeling/74381_ALU_Chip/)
 - [BCD Adder](System_Modeling/BCD_Adder/)
 - [Cascaded 32-bit Adder using 4-bit Carry Lookahead Adder](System_Modeling/Cascaded_32-bit_Adder/)
 
-## Sequential Logic
+### Sequential Logic
 - Coding and Communication
   - [4-bit Hamming Code](./FSM_and_FSMD/HammingCode/)
   - [Run-Length Encoder]()
@@ -22,5 +23,7 @@ This repository includes some exercises about Verilog.
 - [Factorial using FSMD](./FSM_and_FSMD/Factorial/)
 - [Button Detection and Debouncing](./FSM_and_FSMD/ButtonDetection/)
 
-## Testbench
+### Testbench
 - [Generate waveform](System_Modeling/Testbench_waveform/)
+
+## HLS
