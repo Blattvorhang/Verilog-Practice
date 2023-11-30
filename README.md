@@ -12,7 +12,7 @@ This repository includes some exercises about Verilog.
 - Coding and Communication
   - [4-bit Hamming Code](./FSM_and_FSMD/HammingCode/)
   - [Run-Length Encoder]()
-  - [Cyclic Redundancy Check (CRC)]()
+  - [Cyclic Redundancy Check (CRC)](./FSM_and_FSMD/CRC8/)
   - [Receiving Controller]()
 - [Auto Coffee Teller Controller]()
 - [8-bit Comparator (serial input, LSB first)]()
