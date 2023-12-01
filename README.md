@@ -11,15 +11,15 @@ This repository includes some exercises about Verilog.
 ### Sequential Logic
 - Coding and Communication
   - [4-bit Hamming Code](./FSM_and_FSMD/HammingCode/)
-  - [Run-Length Encoder]()
+  - [Run-Length Encoder](./FSM_and_FSMD/RunLengthEncoder/)
   - [Cyclic Redundancy Check (CRC)](./FSM_and_FSMD/CRC8/)
-  - [Receiving Controller]()
-- [Auto Coffee Teller Controller]()
-- [8-bit Comparator (serial input, LSB first)]()
+  - [Receiving Controller](./FSM_and_FSMD/ReceivingController/)
+- [Auto Coffee Teller Controller](./FSM_and_FSMD/CoffeeTeller/)
+- [8-bit Comparator (serial input, LSB first)](./FSM_and_FSMD/Comparator/)
 - [Cyclic Color Light](./FSM_and_FSMD/CyclicColorLight/)
 - [Alarm System](./FSM_and_FSMD/AlarmSystem/)
 - [Sequence Detector of a pair of two binary inputs](./FSM_and_FSMD/SequenceDetector/)
-- [Traffic Lamps Controller]()
+- [Traffic Lamps Controller](./FSM_and_FSMD/TrafficLamps/)
 - [Factorial using FSMD](./FSM_and_FSMD/Factorial/)
 - [Button Detection and Debouncing](./FSM_and_FSMD/ButtonDetection/)
 
